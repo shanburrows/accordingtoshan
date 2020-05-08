@@ -5,7 +5,7 @@ subtitle: writer / creative
 permalink: /about/
 header:
     image: shannon-about.jpg
-    text: light
+    text: dark
 ---
 
 ## Coming Soon
